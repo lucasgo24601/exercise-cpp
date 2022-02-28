@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28124.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P_42_劊子手遊戲", "P_42_劊子手遊戲\P_42_劊子手遊戲.vcxproj", "{BD4468F8-09E6-4634-BA0E-E871BEF5F946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD4468F8-09E6-4634-BA0E-E871BEF5F946}.Debug|x64.ActiveCfg = Debug|x64
+		{BD4468F8-09E6-4634-BA0E-E871BEF5F946}.Debug|x64.Build.0 = Debug|x64
+		{BD4468F8-09E6-4634-BA0E-E871BEF5F946}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD4468F8-09E6-4634-BA0E-E871BEF5F946}.Debug|x86.Build.0 = Debug|Win32
+		{BD4468F8-09E6-4634-BA0E-E871BEF5F946}.Release|x64.ActiveCfg = Release|x64
+		{BD4468F8-09E6-4634-BA0E-E871BEF5F946}.Release|x64.Build.0 = Release|x64
+		{BD4468F8-09E6-4634-BA0E-E871BEF5F946}.Release|x86.ActiveCfg = Release|Win32
+		{BD4468F8-09E6-4634-BA0E-E871BEF5F946}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0DA79A9-7081-4716-ACBA-E774F043F4C6}
+	EndGlobalSection
+EndGlobal

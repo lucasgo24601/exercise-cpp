@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28124.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P_54_大理石在哪", "P_54_大理石在哪\P_54_大理石在哪.vcxproj", "{F78DB135-30BE-438F-9AC6-752BD72003DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78DB135-30BE-438F-9AC6-752BD72003DD}.Debug|x64.ActiveCfg = Debug|x64
+		{F78DB135-30BE-438F-9AC6-752BD72003DD}.Debug|x64.Build.0 = Debug|x64
+		{F78DB135-30BE-438F-9AC6-752BD72003DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{F78DB135-30BE-438F-9AC6-752BD72003DD}.Debug|x86.Build.0 = Debug|Win32
+		{F78DB135-30BE-438F-9AC6-752BD72003DD}.Release|x64.ActiveCfg = Release|x64
+		{F78DB135-30BE-438F-9AC6-752BD72003DD}.Release|x64.Build.0 = Release|x64
+		{F78DB135-30BE-438F-9AC6-752BD72003DD}.Release|x86.ActiveCfg = Release|Win32
+		{F78DB135-30BE-438F-9AC6-752BD72003DD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01CC8C52-5D1C-4B86-A303-FDF9FA20D62B}
+	EndGlobalSection
+EndGlobal
